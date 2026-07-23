@@ -1,0 +1,26 @@
+# Virtual Environment
+.venv/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Chroma Database
+database/chroma_db/
+
+# Logs
+logs/
+*.log
+
+# VS Code
+.vscode/
+
+# Pytest
+.pytest_cache/
+
+# Temporary files
+output.txt
+tmp_*.py
