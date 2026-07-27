@@ -1,3 +1,4 @@
+[Enterprise_Knowledge_Assistant_Capstone_Report.docx](https://github.com/user-attachments/files/30429688/Enterprise_Knowledge_Assistant_Capstone_Report.docx)
 # Enterprise Knowledge Assistant
 
 An AI-powered Enterprise Knowledge Assistant built using **LangGraph**, **LangChain**, **Ollama**, **ChromaDB**, **FastAPI**, and **Streamlit**. The application enables users to query enterprise documents using natural language and provides accurate, context-aware responses with source citations through a Retrieval-Augmented Generation (RAG) pipeline.
@@ -317,9 +318,16 @@ Citation Display
 
 ---
 
- # demo
+ # Demo
  
 <img width="1356" height="610" alt="12" src="https://github.com/user-attachments/assets/64311ac7-dd2c-402d-9e02-fa45c088b54f" />
+
+-----
+
+
+ # Document
+ 
+[Enterprise_Knowledge_Assistant_Capstone_Report.docx](https://github.com/user-attachments/files/30429792/Enterprise_Knowledge_Assistant_Capstone_Report.docx)
 
 -----
 
