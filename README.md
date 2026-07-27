@@ -305,8 +305,7 @@ Home Screen
 > <img width="1356" height="605" alt="image" src="https://github.com/user-attachments/assets/71434735-4567-4882-9b06-4ae0dc332f72" />
 
 Query Interface
-<img width="1364" height="600" alt="image" src="https://github.com/user-attachments/assets/629f2890-0514-46cf-8492-49228592d484" />
-
+<img width="1326" height="602" alt="image" src="https://github.com/user-attachments/assets/dc52ba49-a9e4-49f2-893e-5ffa9bd9b11f" />
 
 Generated Response
 <img width="1365" height="610" alt="image" src="https://github.com/user-attachments/assets/fc9132e8-cf22-45e7-8bb6-102c66b801bb" />
