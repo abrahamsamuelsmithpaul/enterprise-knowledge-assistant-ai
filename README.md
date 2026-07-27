@@ -301,7 +301,8 @@ streamlit run app.py
 
 # Screenshots
 
-> Add screenshots here after deployment.
+> <img width="1356" height="605" alt="image" src="https://github.com/user-attachments/assets/71434735-4567-4882-9b06-4ae0dc332f72" />
+
 
 ```
 Home Screen
