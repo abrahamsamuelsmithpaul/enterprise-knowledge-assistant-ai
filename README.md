@@ -300,19 +300,21 @@ streamlit run app.py
 ---
 
 # Screenshots
+Home Screen
 
 > <img width="1356" height="605" alt="image" src="https://github.com/user-attachments/assets/71434735-4567-4882-9b06-4ae0dc332f72" />
 
-
-```
-Home Screen
-
 Query Interface
+<img width="1364" height="600" alt="image" src="https://github.com/user-attachments/assets/629f2890-0514-46cf-8492-49228592d484" />
+
 
 Generated Response
+<img width="1365" height="610" alt="image" src="https://github.com/user-attachments/assets/fc9132e8-cf22-45e7-8bb6-102c66b801bb" />
+
 
 Citation Display
-```
+<img width="1360" height="606" alt="image" src="https://github.com/user-attachments/assets/27f7b2b0-877f-4063-973f-4e0f292ed07d" />
+
 
 ---
 
