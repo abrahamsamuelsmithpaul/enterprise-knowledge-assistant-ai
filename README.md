@@ -240,7 +240,7 @@ Create a `.env` file.
 Example:
 
 ```env
-OLLAMA_BASE_URL=http://localhost:11434
+OLLAMA_BASE_URL=your llm (I used OLLAMA)
 LLM_MODEL=llama3.2:latest
 EMBEDDING_MODEL=nomic-embed-text:latest
 ```
@@ -317,7 +317,7 @@ Citation Display
 
 # Author
 
-**Abraham Samuel Smith Paul**
+**Abraham Samuel**
 
 GitHub:
 
